@@ -73,9 +73,10 @@ number_of_employees = 25
 # ----------------------------------
 # Define String variables
 # ----------------------------------
-author: str = "Denise Case"  # TODO: change to your name
-organization: str = "Stellar Analytics"  # TODO: change the org name
-motto: str = "Clear. Useful. On time."  # TODO: change the motto
+author: str = "Hailey Hanson"  # TODO: change to your name
+organization: str = "Mystic Analytics"  # TODO: change the org name
+motto: str = "Hazy. Mysterious. Outside of Time."  # TODO: change the motto
+location: str = "Venus, Oregon"
 
 # TODO: Declare and initialize a new string variable (e.g. `location` and set it to your city and state)
 
