@@ -67,7 +67,7 @@ is_hiring = False
 # ----------------------------------
 current_year: int = 2025
 year_started: int = 2020
-
+number_of_employees = 25
 # TODO: Declare and initialize a new integer variable (e.g. `number_of_employees` and set it to 25)
 
 # ----------------------------------
