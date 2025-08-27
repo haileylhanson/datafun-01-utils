@@ -11,10 +11,6 @@ A short, first-week module to demonstrate key skills:
 - run this file as a script via main() using the if __name__ == '__main__' pattern
 
 Author: Hailey Hanson - edited from Denise Case
-
-TODO: Replace 'lastname' in the filename with your own last (or unique) name.
-TODO: Update the file name and author in this opening docstring.
-TODO: Remove each TODO line AFTER you successfully complete the item.
 """
 
 #####################################
