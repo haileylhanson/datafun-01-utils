@@ -102,6 +102,7 @@ min_score: float = min(satisfaction_scores)
 max_score: float = max(satisfaction_scores)
 count_of_services: int = len(services)
 count_of_scores: int = len(satisfaction_scores)
+count_of_locations: int = len(office_locations)
 
 # TODO: Declare and initialize a new calculated variable (e.g. `count_of_locations` that uses the len() function on your list of office locations)
 
