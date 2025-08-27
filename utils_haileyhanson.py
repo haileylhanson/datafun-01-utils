@@ -1,5 +1,5 @@
 """
-File: utils_case.py
+File: utils_haileyhanson.py
 
 Purpose: Reusable header/tagline module for analytics projects.
 
@@ -10,7 +10,7 @@ A short, first-week module to demonstrate key skills:
 - expose a function named get_tagline() that can be imported into other modules
 - run this file as a script via main() using the if __name__ == '__main__' pattern
 
-Author: Denise Case
+Author: Hailey Hanson - edited from Denise Case
 
 TODO: Replace 'lastname' in the filename with your own last (or unique) name.
 TODO: Update the file name and author in this opening docstring.
@@ -58,6 +58,7 @@ logger.info("Logger loaded.")
 # ----------------------------------
 is_accepting_clients: bool = True
 offers_remote_workshops: bool = True
+is_hiring = False
 
 # TODO: Declare and initialize a new boolean variable (e.g. `is_hiring` and set it to False)
 
