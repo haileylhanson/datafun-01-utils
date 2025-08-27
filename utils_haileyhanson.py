@@ -131,6 +131,11 @@ Minimum Satisfaction Score: {min_score}
 Maximum Satisfaction Score: {max_score}
 Mean Satisfaction Score:    {mean_score:.2f}
      Standard Deviation:    {stdev_score:.2f}
+Is Hiring:                  {is_hiring}
+Number of Employees:        {number_of_employees}
+Location:                   {location}
+Office Locations:           {office_locations}
+Number of Locations:        {count_of_locations}
 **********************************************************
 """
 
