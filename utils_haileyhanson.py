@@ -60,7 +60,7 @@ is_accepting_clients: bool = True
 offers_remote_workshops: bool = True
 is_hiring = False
 
-# TODO: Declare and initialize a new boolean variable (e.g. `is_hiring` and set it to False)
+
 
 # ----------------------------------
 # Define Integer variables
@@ -68,7 +68,7 @@ is_hiring = False
 current_year: int = 2025
 year_started: int = 2020
 number_of_employees = 25
-# TODO: Declare and initialize a new integer variable (e.g. `number_of_employees` and set it to 25)
+
 
 # ----------------------------------
 # Define String variables
@@ -78,7 +78,7 @@ organization: str = "Mystic Analytics"  # TODO: change the org name
 motto: str = "Hazy. Mysterious. Outside of Time."  # TODO: change the motto
 location: str = "Venus, Oregon"
 
-# TODO: Declare and initialize a new string variable (e.g. `location` and set it to your city and state)
+
 
 # ----------------------------------
 # Define List variables
@@ -90,8 +90,7 @@ services: list[str] = ["Data Analysis", "Machine Learning", "Business Intelligen
 satisfaction_scores: list[float] = [4.8, 4.6, 4.9, 5.0, 4.7]
 office_locations: list[str] = ["Samadhi","Nirvana","Enlightenment"]
 
-# TODO: Declare and initialize a new list variable (e.g. `office_locations` and set it to 3-5 cities where your org has offices)
-# TODO: Wrap each string in quotes and separate each item with a comma.
+
 
 # ----------------------------------
 # Use built-in Python operators (such as - + * /)
@@ -104,7 +103,7 @@ count_of_services: int = len(services)
 count_of_scores: int = len(satisfaction_scores)
 count_of_locations: int = len(office_locations)
 
-# TODO: Declare and initialize a new calculated variable (e.g. `count_of_locations` that uses the len() function on your list of office locations)
+
 
 
 # ----------------------------------
@@ -139,7 +138,7 @@ Number of Locations:        {count_of_locations}
 **********************************************************
 """
 
-# TODO: Modify the byline f-string to display your new variables as well. Use curly braces {} to embed each variable.
+
 
 #####################################
 # Define Global Functions
