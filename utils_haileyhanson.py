@@ -88,7 +88,7 @@ services: list[str] = ["Data Analysis", "Machine Learning", "Business Intelligen
 
 # example list of floating point numbers
 satisfaction_scores: list[float] = [4.8, 4.6, 4.9, 5.0, 4.7]
-
+office_locations: list[str] = ["Samadhi","Nirvana","Enlightenment"]
 
 # TODO: Declare and initialize a new list variable (e.g. `office_locations` and set it to 3-5 cities where your org has offices)
 # TODO: Wrap each string in quotes and separate each item with a comma.
